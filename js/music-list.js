@@ -125,8 +125,8 @@ let allMusic = [
     src: "music-19"
   },
   {
-    name: "Your Guardian Angel",
-    artist: "The Red Jumpsuit Apparatus",
+    name: "MakeDamnSure",
+    artist: "Taking Back Sunday",
     img: "music-20",
     src: "music-20"
   },
