@@ -130,6 +130,18 @@ let allMusic = [
     img: "music-20",
     src: "music-20"
   },
+  {
+    name: "December Ft. Mark Hoppus",
+    artist: "Neck Deep",
+    img: "music-21",
+    src: "music-21"
+  },
+  {
+    name: "Lean On (feat. MØ)",
+    artist: "Major Lazer & DJ Snake",
+    img: "music-22",
+    src: "music-22"
+  },
 
 
   // like this paste it and remember to give comma after ending of this bracket }
