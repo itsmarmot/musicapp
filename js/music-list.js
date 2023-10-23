@@ -29,8 +29,8 @@ let allMusic = [
     src: "music-3"
   },
   {
-    name: "FM Static - Tonight",
-    artist: "Alternative Music",
+    name: "Check Yes Juliet",
+    artist: "We The Kings",
     img: "music-4",
     src: "music-4"
   },
