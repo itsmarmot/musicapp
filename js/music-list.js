@@ -84,7 +84,7 @@ let allMusic = [
   },
   {
     name: "Jewelry (쥬얼리) - Love Story",
-    artist: "Korean Music",
+    artist: "Audition Ayodance",
     img: "music-13",
     src: "music-13"
   },
