@@ -125,7 +125,7 @@ let allMusic = [
     src: "music-19"
   },
   {
-    name: "MakeDamnSure",
+    name: "MakeDamnSure-(Deluxe Edition)",
     artist: "Taking Back Sunday",
     img: "music-20",
     src: "music-20"
