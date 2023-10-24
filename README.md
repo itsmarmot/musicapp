@@ -10,4 +10,4 @@
 ---
 
 # made with ❤️ by Ammar
-> These are some of my favorite 25 songs with various genres and kinds of famous or hidden song. Happy listening and hopefully you like it too ♫₊˚.🎧
+> These are some of my favorite 25 songs with various genres and kinds of famous or secret music. Happy listening and hopefully you like it too ♫₊˚.🎧
