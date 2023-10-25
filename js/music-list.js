@@ -149,8 +149,8 @@ let allMusic = [
     src: "music-23"
   },
   {
-    name: "Shake It",
-    artist: "Metro Station",
+    name: "Fall For You",
+    artist: "Secondhand Serenade",
     img: "music-24",
     src: "music-24"
   },
