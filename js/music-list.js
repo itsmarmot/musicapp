@@ -23,8 +23,8 @@ let allMusic = [
     src: "music-2"
   },
   {
-    name: "Stay",
-    artist: "Zedd & Alessia Cara",
+    name: "STAY (with Justin Bieber)",
+    artist: "The Kid LAROI",
     img: "music-3",
     src: "music-3"
   },
