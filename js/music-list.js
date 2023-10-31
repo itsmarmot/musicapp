@@ -167,8 +167,8 @@ let allMusic = [
     src: "music-26"
   },
   {
-    name: "Fireflies",
-    artist: "Owl City",
+    name: "Girlfriend",
+    artist: "Avril Lavigne",
     img: "music-27",
     src: "music-27"
   },
