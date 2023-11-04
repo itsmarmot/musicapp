@@ -1,6 +1,7 @@
 # MusicApp
 
 >  A Music App developed using JavaScript, CSS, and HTML. Users can click the Forward play, Backward play, Playlist loop and Shuffle music buttons to change the Music.
+> Made can your head shake and heart will be touched. Enjoy it Heart on Fire 🔥
  
 ## Live Demo
 
