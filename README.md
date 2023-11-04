@@ -10,5 +10,5 @@
 
 ---
 
-# made with ❤️ by Ammar
+# made with ❤ by Ammar
 > These are some of my favorite songs with various genres and kinds of famous or secret music. Happy listening and hopefully you like it too ♫₊˚.🎧
