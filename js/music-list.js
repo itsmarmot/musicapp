@@ -190,6 +190,36 @@ let allMusic = [
     img: "music-30",
     src: "music-30"
   },
+  {
+    name: "A Sky Full Of Stars",
+    artist: "Coldplay",
+    img: "music-31",
+    src: "music-31"
+  },
+  {
+    name: "If You Cant Hang",
+    artist: "Sleeping With Sirens",
+    img: "music-32",
+    src: "music-32"
+  },
+  {
+    name: "Good Time",
+    artist: "Owl City & Carly Rae Jepsen",
+    img: "music-33",
+    src: "music-33"
+  },
+  {
+    name: "Dirty Little Secret",
+    artist: "The All-American Rejects",
+    img: "music-34",
+    src: "music-34"
+  },
+  {
+    name: "Best Day Of My Life",
+    artist: "American Authors",
+    img: "music-35",
+    src: "music-35"
+  },
 
 
   // like this paste it and remember to give comma after ending of this bracket }
