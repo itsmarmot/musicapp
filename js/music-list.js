@@ -125,8 +125,8 @@ let allMusic = [
     src: "music-19"
   },
   {
-    name: "MakeDamnSure (Louder Now)",
-    artist: "Taking Back Sunday",
+    name: "Be With You (Rock Mix)",
+    artist: "[AZIATIX]",
     img: "music-20",
     src: "music-20"
   },
