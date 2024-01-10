@@ -220,7 +220,36 @@ let allMusic = [
     img: "music-35",
     src: "music-35"
   },
-
+  {
+    name: "Yui -「SUMMER SONG」",
+    artist: "夏が来るから",
+    img: "music-36",
+    src: "music-36"
+  },
+  {
+    name: "Clock Strikes - 人生ｘ僕",
+    artist: "ONE OK ROCK",
+    img: "music-37",
+    src: "music-37"
+  },
+  {
+    name: "Believe In Love",
+    artist: "IU(아이유) & Yoo Seungho",
+    img: "music-38",
+    src: "music-38"
+  },
+ {
+    name: "My House",
+    artist: "PVRIS",
+    img: "music-39",
+    src: "music-39"
+  },
+ {
+    name: "Terrible Things",
+    artist: "Mayday Parade",
+    img: "music-40",
+    src: "music-40"
+  },
 
   // like this paste it and remember to give comma after ending of this bracket }
   // {
